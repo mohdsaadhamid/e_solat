@@ -1,3 +1,3 @@
 # e_solat
 
-Flutter app code to run e-solat api from JAKIM malaysia
+Flutter app code to view prayer times using e-solat api from JAKIM malaysia
